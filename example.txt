@@ -1,3 +1,3 @@
-# More about GitHub
+More about GitHub
 
-* GitHub is the world's largest software development platform. It provides cloud storage for source code and supports all popular programming languages. Navigating through source files is always very fast.  It also provides access control and several collaboration features, like basic task management tools for every project. It is one of the largest coding communities around, so using it can provide wide exposure for your project.
+GitHub is the world's largest software development platform. It provides cloud storage for source code and supports all popular programming languages. Navigating through source files is always very fast.  It also provides access control and several collaboration features, like basic task management tools for every project. It is one of the largest coding communities around, so using it can provide wide exposure for your project.
