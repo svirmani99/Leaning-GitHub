@@ -6,7 +6,7 @@ This is a repository to learn GitHub.
 * It gives an opportunity to contribute in any projects worldwide. 
 * We can interact with GitHub using a command-line interface tool called Git.
 
-## Different Stages of git project
+## Different Stages of a git project
 1. Modified
 2. Staged
 3. Commit
